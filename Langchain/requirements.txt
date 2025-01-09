@@ -1,2 +1,2 @@
 langchain
-ipykernel
+python-dotenv
